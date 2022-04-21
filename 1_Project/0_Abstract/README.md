@@ -1,1 +1,5 @@
-
+# Rain Sensing Car Wiper
+Today’s car wipers are manual systems that work on the principle of manual switching. So here we propose an automatic wiper system that automatically switches ON on detecting rain and stops when the rain stops. Our project brings forward this system to automate the wiper system not need manual intervention. For this purpose, we use a rain sensor along with a microcontroller to drive the wiper motor. Our system uses a rain sensor to detect rain, this signal is then processed by a microcontroller to take the desired action. The rain sensor works on the principle of using water for completing its circuit, so when rain falls on it, the circuit gets completed and sends out a signal to the microcontroller. The microcontroller now processes this data and controls the motor. This system is equally useful for Aircraft and a smaller version of this can be used by motorbikers in their helmets so that they can drive easily in rains.
+* This product works in kind of a automatic /semi automatic.
+* This circuit can also work as a water harvestor whan used in other ways and also in many other ways.
+* We can alter the sensors and work with the circuit so that it will give us diffent product to use.
