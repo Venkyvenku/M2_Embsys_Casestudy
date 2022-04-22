@@ -1,5 +1,7 @@
 # Circuit Output
-![Circuit](https://user-images.githubusercontent.com/101461694/164628891-b41b5435-11f1-4a5d-a19a-d7cba0919644.png)
+
+![Circuit](https://user-images.githubusercontent.com/101461694/164635332-45bf9282-b076-4fc5-a949-20107f52c5ab.png)
+
 * The circuit discription is given inside itself
 * The output Video 
 
