@@ -52,4 +52,3 @@ Serial.println(sensorValue);
 if(sensorValue>600){myservo.write(180);lcd.print(" NIL  ");delay(1000);}
 if(sensorValue<=600){lcd.setCursor(10,1);wipe(sensorValue);}
 }
-
