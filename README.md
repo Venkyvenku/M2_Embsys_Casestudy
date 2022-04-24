@@ -2,16 +2,4 @@
 
 |Codacy| Build Linux| Cppcheck Analysis| Code Quality Score | Code Grade |
 | :---: | :---: | :---: | :---: | :---: |
-
-
-
-
-
-
-
-
-
-
-
-
-[![cppcheck](https://github.com/Venkyvenku/M2_Embsys_Casestudy/actions/workflows/main.yml/badge.svg)](https://github.com/Venkyvenku/M2_Embsys_Casestudy/actions/workflows/main.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/90cc32738aa94454a3689d2090de98ec)](https://www.codacy.com/gh/Venkyvenku/M2_Embsys_Casestudy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Venkyvenku/M2_Embsys_Casestudy&amp;utm_campaign=Badge_Grade)|[![Build-Linux](https://github.com/supraja-vura/M2_Distance_Measurement/actions/workflows/build.yml/badge.svg)](https://github.com/supraja-vura/M2_Distance_Measurement/actions/workflows/build.yml)|[![Cppcheck Analysis](https://github.com/Venkyvenku/M2_Embsys_Casestudy/actions/workflows/main.yml/badge.svg)](https://github.com/Venkyvenku/M2_Embsys_Casestudy/actions/workflows/main.yml)|![Quality](https://api.codiga.io/project/33125/score/svg) | ![Code Quality](https://api.codiga.io/project/33125/status/svg) |
